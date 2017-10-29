@@ -1,0 +1,35 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml:2:1-3:12
+INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml:2:1-3:12
+INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml:2:1-3:12
+INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml:2:1-3:12
+INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml:2:1-3:12
+INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml:2:1-3:12
+INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml:2:1-3:12
+	package
+		ADDED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml:2:11-35
+		INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml
+		INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml
+		ADDED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml:2:1-3:12
+		INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml
+		ADDED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml:2:1-3:12
+		INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml
+INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml
+INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml
+INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml
+		ADDED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml
+		INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml
+		ADDED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml
+		INJECTED from /Users/wecut-simon/Android/Project/VRoom/rajawali/src/main/AndroidManifest.xml
